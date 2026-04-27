@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Zuheb khan
 ===================================================================================================================================
 
-Aspiring Data Analyst
+Data Analyst
 ---------------------
 
 Hello, my name is Zuheb Khan. I am a fresher Data Analyst with a strong interest in working with data and discovering meaningful insights.
